@@ -1,4 +1,4 @@
-# Thejas Manjunath — DevOps / SRE Engineer
+# Thejas Manjunath — DevOps / Site Reliability Engineer
 
 DevOps / Site Reliability Engineer with 3 years of experience across
 cloud infrastructure automation, CI/CD pipeline engineering, and
